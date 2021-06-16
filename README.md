@@ -6,14 +6,14 @@ The health care industry produces a massive amount of data. This data is not alw
 
 ### OBJECTIVE
 
-•	To study the present Diabetic Retinopathy disease prediction trends and collect data. 
-•	To implement different technical indicators. 
-•	To perform pre-processing on the dataset gathered to enhance the important features for detecting DR disease. 
-•	To build prediction model using different machine learning models. We will combine the technical indicators with dataset and then compare the model accuracy. 
-•	Build a Machine Learning model to predict the level of severity of DR disease.
-•	To find significant features by applying machine learning techniques.
-•	To compare different ML models and analyse which model performs more efficiently. 
-•	To overall assist patients and doctors to help detect early signs of DR disease. 
+* To study the present Diabetic Retinopathy disease prediction trends and collect data. 
+* To implement different technical indicators. 
+* To perform pre-processing on the dataset gathered to enhance the important features for detecting DR disease. 
+* To build prediction model using different machine learning models. We will combine the technical indicators with dataset and then compare the model accuracy. 
+* Build a Machine Learning model to predict the level of severity of DR disease.
+* To find significant features by applying machine learning techniques.
+* To compare different ML models and analyse which model performs more efficiently. 
+* To overall assist patients and doctors to help detect early signs of DR disease. 
 
 
 ### MOTIVATION
